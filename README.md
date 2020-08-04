@@ -6,4 +6,4 @@ Conta com as funções de cadastro, edição, exclusão de valores. Integração
 
 https://github.com/cesarvaz-filho/smartMoney/tree/master/imagens%20do%20projeto/Screenshot_20200804-073621_smartMoney.jpg
 
-![alt text](https://github.com/[cesarvaz-filh]/[smartMoney]/blob/[master]/Screenshot_20200804-073621_smartMoney.jpg?raw=true)
+![alt text](https://github.com/cesarvaz-filho/smartMoney/blob/master/Screenshot_20200804-073621_smartMoney.jpg?raw=true)
