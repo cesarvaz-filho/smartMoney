@@ -6,6 +6,3 @@ Conta com as funções de cadastro, edição, exclusão de valores. Integração
 
 
 ![alt text](https://github.com/cesarvaz-filho/smartMoney/blob/master/imagens%20do%20projeto/Screenshot_20200804-073621_smartMoney.jpg?raw=true)
-
-
-![alt text](https://github.com/cesarvaz-filho/smartMoney/tree/master/imagens%20do%20projeto/Screenshot_20200804-073621_smartMoney.jpg?raw=true)
