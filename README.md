@@ -22,7 +22,11 @@ Conta com as funções de cadastro, edição, exclusão de valores. Integração
 </h1>
 
 <h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./imagens%20do%20projeto/Screenshot_20200804-075413_smartMoney.jpg" width="350" height="600" />
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./imagens%20do%20projeto/Screenshot_20200804-075421_smartMoney.jpg" width="350" height="600" />
+</h1>
+
+<h1 align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./imagens%20do%20projeto/Screenshot_20200804-075431_smartMoney.jpg" width="350" height="600" />
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./imagens%20do%20projeto/Screenshot_20200804-075451_smartMoney.jpg" width="350" height="600" />
 </h1>
