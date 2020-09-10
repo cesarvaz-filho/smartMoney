@@ -16,7 +16,7 @@ Conta com as funções de cadastro, edição, exclusão de valores. Integração
 # Banner
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./imagens%20do%20projeto/Screenshot_20200804-073621_smartMoney.jpg" width="450" height="800" />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./imagens%20do%20projeto/Screenshot_20200804-073621_smartMoney.jpg" width="750" height="600" />
 </h1>
 
 <h1 align="center">
@@ -71,7 +71,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 - [React Native](https://reactnative.dev/)
-- [Javascript]
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
+- [RealmDB](https://realm.io/)
 
 # Autor
 
